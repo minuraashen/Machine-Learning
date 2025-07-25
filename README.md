@@ -12,12 +12,11 @@ A collection of beginner-level machine learning projects to build a strong found
 
 **Tech Stack & Workflow:**  
 - **Language:** Python  
-- **Libraries:** `numpy`, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`  
+- **Libraries:** `numpy`, `pandas`, `scikit-learn`, `matplotlib`
 - **Preprocessing:**  
-  - Handle missing values  
   - Normalize features using `StandardScaler`  
 - **Model:** Support Vector Machine (SVM)  
-- **Evaluation:** Accuracy, Confusion Matrix, Classification Report  
+- **Evaluation:** Accuracy Score 
 
 ---
 
@@ -33,12 +32,22 @@ A collection of beginner-level machine learning projects to build a strong found
   - Handle missing values (impute with median)  
   - One-hot encode categorical features  
 - **Model:** XGBoost Regressor  
-- **Evaluation:** RMSE, MAE, R² Score  
+- **Evaluation:** Maximum Absolute Error(MAE), R² Score
 
 ---
 
-## ⚙️ **Installation & Setup**  
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/yourusername/ml-beginner-projects.git
-   cd ml-beginner-projects
+📘 **Learning Outcomes**
+-Understanding classification vs regression problems
+-Data preprocessing techniques:
+  -Normalization
+  -Encoding categorical features
+  -Handling missing values
+-Implementing machine learning models with scikit-learn and XGBoost
+-Evaluating model performance with appropriate metrics
+
+✅ **Future Improvements**
+-Add hyperparameter tuning (GridSearchCV, RandomizedSearchCV)
+-Deploy as a web app using Streamlit or Flask
+-Add more datasets and advanced models
+
+

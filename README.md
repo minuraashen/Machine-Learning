@@ -1,8 +1,8 @@
 # 🧠 My Machine Learning Journey  
-A collection of beginner-level machine learning projects to build a strong foundation in supervised learning.  
-I am still **learning** and have just begun my journey into **Machine Learning**.  
-This repository contains my **beginner-level projects** as I explore and improve my skills.  
-I wish to complete many **worthwhile projects** over time while continuously learning and growing.
+### A collection of beginner-level machine learning projects to build a strong foundation in supervised learning.  
+### I am still **learning** and have just begun my journey into **Machine Learning**.  
+### This repository contains my **beginner-level projects** as I explore and improve my skills.  
+### I wish to complete many **worthwhile projects** over time while continuously learning and growing.
 ---
 
 ## 📂 **Projects Included**  

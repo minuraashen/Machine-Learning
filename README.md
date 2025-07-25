@@ -37,17 +37,17 @@ A collection of beginner-level machine learning projects to build a strong found
 ---
 
 📘 **Learning Outcomes**
--Understanding classification vs regression problems
--Data preprocessing techniques:
-  -Normalization
-  -Encoding categorical features
-  -Handling missing values
--Implementing machine learning models with scikit-learn and XGBoost
--Evaluating model performance with appropriate metrics
+- Understanding classification vs regression problems  
+- Data preprocessing techniques:  
+  - Normalization  
+  - Encoding categorical features  
+  - Handling missing values  
+- Implementing machine learning models with scikit-learn and XGBoost  
+- Evaluating model performance with appropriate metrics  
 
 ✅ **Future Improvements**
--Add hyperparameter tuning (GridSearchCV, RandomizedSearchCV)
--Deploy as a web app using Streamlit or Flask
--Add more datasets and advanced models
+- Add hyperparameter tuning (GridSearchCV, RandomizedSearchCV)  
+- Deploy as a web app using Streamlit or Flask  
+- Add more datasets and advanced models  
 
 

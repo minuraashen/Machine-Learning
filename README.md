@@ -34,6 +34,21 @@
 - **Evaluation:** Maximum Absolute Error(MAE), R² Score
 
 ---
+### ✅ 3. Handwritten Digit Classification  
+- **Problem Type:** Classification  
+- **Dataset:** [MNIST Handwritten Digits](http://yann.lecun.com/exdb/mnist/)  
+- **Goal:** Classify handwritten digits (0–9) from images.  
+
+**Tech Stack & Workflow:**  
+- **Language:** Python  
+- **Libraries:** `numpy`, `pandas`, `tensorflow` (or `keras`), `matplotlib`
+- **Preprocessing:**  
+  - Normalize pixel values to [0, 1]  
+  - Flatten image data for input  
+- **Model:** Simple Neural Network (Multi-Layer Perceptron)  
+- **Evaluation:** Accuracy, Confusion Matrix
+
+---
 
 📘 **Learning Outcomes**
 - Understanding classification vs regression problems  

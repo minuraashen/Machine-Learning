@@ -35,7 +35,7 @@
 
 ---
 ### ✅ 3. Handwritten Digit Classification  
-- **Problem Type:** Classification  
+- **Problem Type:** Image Classification  
 - **Dataset:** [MNIST Handwritten Digits](http://yann.lecun.com/exdb/mnist/)  
 - **Goal:** Classify handwritten digits (0–9) from images.  
 
